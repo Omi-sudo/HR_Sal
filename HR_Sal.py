@@ -7,7 +7,7 @@ from sklearn.preprocessing import MinMaxScaler
 
 st.title("Employee Salary Prediction")
 print('\n')
-st.subheader("This project predicts the salary of the employee based on the given parameters")
+    st.subheader("This project predicts the salary of the employee based on the given parameters")
 print('\n')
 print('\n')
 st.markdown('Below plot confirms the relationship between the Salary and other input parameters')
